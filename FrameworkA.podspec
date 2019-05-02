@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FrameworkA'
-  s.version          = '0.4.0'
+  s.version          = '0.5.0'
   s.summary          = 'Lazy snorlax.'
 
 # This description is used to generate tags and improve search results.
